@@ -1,0 +1,16 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "records": [
+      {
+        "wins": 2,
+        "draws": 2,
+        "losses": 1
+      }
+    ],
+    "count": 1
+  }
+}
